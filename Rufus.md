@@ -11,3 +11,8 @@ Steps
 3. Select the Disc Icon to select the USB if not automatically selected.
 
    ![Rufus1](https://github.com/user-attachments/assets/74869846-2aa9-4571-b8f0-5cee86b61ec1)
+
+4. Select the ISO from its location
+5. Select "Start". This will take between 5 to 10 minutes. After it is complete you can use this USB as a bootable CentOS installer.
+
+![image](https://github.com/user-attachments/assets/b6f959df-7504-4792-916b-ef852cce18d3)
