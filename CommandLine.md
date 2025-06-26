@@ -9,7 +9,18 @@ Steps to creating bootable USB using the command Line interface
 
 ![image](https://github.com/user-attachments/assets/c181a9c5-49b9-412b-8642-7ab30d671a69)
 
+5. List all drives connected to your computer.
+6. Select your USB drive.
+7. CLEAN - This wipes the drive.
+8. CREATE PARTITION PRIMARY - Creates a partition.
+9. ACTIVE - Marks the current partition as active.
 
+![image](https://github.com/user-attachments/assets/6510a8ad-1c05-4632-b681-ae9d9b22b894)
+
+10. FORMAT FS=NTFS QUICK - This formats the partition.
+11. ASSIGN - Assigns a drive letter.
+12. EXIT
+13. Close you console window and copy all files from ISO image to the USB
 
 [Dell Support](https://www.dell.com/support/kbdoc/en-ca/000136959/create-a-bootable-usb-flash-drive-using-the-diskpart-utility)
 
